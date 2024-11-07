@@ -1,0 +1,7 @@
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\bin\Debug\Turn.exe.config
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\bin\Debug\Turn.exe
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\bin\Debug\Turn.pdb
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\obj\Debug\Turn.csproj.AssemblyReference.cache
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\obj\Debug\Turn.csproj.CoreCompileInputs.cache
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\obj\Debug\Turn.exe
+D:\ДНУ\3 семестр\Карпенко лаби\Stack_and_queue\Turn\Turn\obj\Debug\Turn.pdb
